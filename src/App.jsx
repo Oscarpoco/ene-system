@@ -2,11 +2,11 @@ import { useState, useEffect, useRef } from 'react'
 
 // COMPONENTS
 import NavBar from './components/sections/navigation/NavBar'
-import Footer from './components/sections/Footer/Footer'
-import Home from './components/sections/Home/Home'
-import About from './components/sections/About/About'
-import Services from './components/sections/Services/Services'
-import Contact from './components/sections/Contact/Contact'
+import Footer from './components/sections/footer/Footer'
+import Home from './components/sections/home/Home'
+import About from './components/sections/about/About'
+import Services from './components/sections/services/Services'
+import Contact from './components/sections/contact/Contact'
 
 // ICON
 import { ArrowUp } from 'lucide-react'
