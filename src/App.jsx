@@ -6,7 +6,7 @@ import Footer from './components/sections/footer/Footer'
 import Home from './components/sections/home/Home'
 import About from './components/sections/about/About'
 import Services from './components/sections/services/Services'
-import Contact from './components/sections/contact/Contact'
+import Contact from './components/sections/Contact/Contact'
 
 // ICON
 import { ArrowUp } from 'lucide-react'
